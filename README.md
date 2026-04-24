@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> لا تزعليني يا روحي في هذا الليل
+> خلينا نعيش الهوى من غير دليل
+> شوقي لك بحر ما له أي حدود
+> بين قلبي وقلبك الحب يعود
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
