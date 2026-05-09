@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - La Teza3lini – Don't Upset Me
+
+This log tracks the cryptographic history and versioning for the song **La Teza3lini – Don't Upset Me** (la-teza3lini-dont-upset-me).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:58:26.139721 | `v1` | `bcd748601cb0e36a0a0c159bc0b1c46ab2b6b6cd4c917478e86cec7e45a593ab` | `81262652128712794c66cd89acbc537d5757d5df74d098846987c2902abf4b5e` | `2026-05-09_la-teza3lini-dont-upset-me-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
